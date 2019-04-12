@@ -1,0 +1,10 @@
+{
+    "name": "bamazon_db",
+    "version": "1.0.0",
+    "description": "amazon clone through node using Inquirer and mySQL",
+    "main": "shopBamazon.js",
+    "dependencies": {
+        "inquirer": "^3.0.1",
+        "mysql": "^2.13.0"
+    }
+}
